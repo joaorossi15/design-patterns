@@ -62,5 +62,4 @@ if __name__ == "__main__":
     subject.logic()
 
     subject.detach(observer_a)
-
     subject.logic()
